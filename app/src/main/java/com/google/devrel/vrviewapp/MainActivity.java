@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                     case 0:
                         return new WelcomeFragment();
                     case 1:
-                        return new VenueFragment();
+                        return new GorillaFragment();
                 }
                 return null;
             }

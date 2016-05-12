@@ -17,14 +17,13 @@
 <resources>
     <string name="app_name">VRViewApp</string>
     <string name="action_settings">Settings</string>
-    <string name="venue">Venue</string>
+    <string name="venue">About Gorillas</string>
     <string name="welcome">"Welcome"</string>
     <string name="welcome_title">Welcome to the VR View Codelab</string>
     <string name="welcome_description">Google Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will
       step you through the process of building a small application, or adding a new feature to an
       existing application.</string>
-    <string name="venue_description">To celebrate a decade of working closely with the developer community,
-      we’ll be hosting I/O in our backyard at the Shoreline Amphitheatre in Mountain View, CA,
-      a venue that has played host to some of the world’s biggest entertainers and events.</string>
+    <string name="gorilla_info">Gorillas are ground-dwelling, predominantly herbivorous apes that inhabit
+    the forests of central Africa.</string>
     <string name="codelab_img_description">Image of a codelab computer</string>
 </resources>

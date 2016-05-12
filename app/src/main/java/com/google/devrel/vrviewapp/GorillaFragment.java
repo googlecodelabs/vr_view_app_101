@@ -22,14 +22,14 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Fragment for the Venue tab.
+ * Fragment for the Gorilla tab.
  */
-public class VenueFragment extends Fragment {
-    private static final String TAG = "VenueFragment";
+public class GorillaFragment extends Fragment {
+    private static final String TAG = "GorillaFragment";
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.venue_fragment, container,false);
+        return inflater.inflate(R.layout.gorilla_fragment, container,false);
     }
 }
